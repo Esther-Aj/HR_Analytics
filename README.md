@@ -13,4 +13,4 @@ The HR team needs an insightful analysis of attrition rate within the company.
 - **Tableau** for visualization
 
 ## Data Sourcing
-The dataset was gotten from the [datacamp] platform. It contains 3 tables.
+The dataset was gotten from the [datacamp platform](https://github.com/Esther-Aj/HR_Analytics/tree/main/hr_data "download"). It contains 3 tables.
