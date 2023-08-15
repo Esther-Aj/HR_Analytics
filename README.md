@@ -1,5 +1,5 @@
 # HR_Analytics
-This analysis provides a thorough review of attrition trends over the last 10 years at this software company. This analysis intends to highlight areas of concern, offer valuable insights into the factors affecting employee turnover, and make practical suggestions for improving staff retention.
+This analysis provides a thorough review of attrition trends over the last 10 years at a software company. This analysis intends to highlight areas of concern, offer valuable insights into the factors affecting employee turnover, and make practical suggestions for improving staff retention.
 
 ## Introduction
 The HR team is finding ways to reduce the overall attrition rates but first, an analysis must be carried out to give further insights.
