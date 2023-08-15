@@ -17,6 +17,10 @@ The HR team needs an insightful analysis of attrition rate within the company.
 ## Data Sourcing
 The dataset was gotten from the [datacamp platform](https://github.com/Esther-Aj/HR_Analytics/tree/main/hr_data). It contains 3 tables.
 
+- Employee
+- Education
+- Performance rating
+
 ## Analysis and Insights
 From the analysis, the following can be observed;
 - The company has 3 departments and 1,233 active employees, the majority of which are males aged 29 years on average.
