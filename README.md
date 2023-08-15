@@ -29,3 +29,12 @@ From the analysis, the following can be observed;
 - It is evident from the data that employees between the ages of 22 and 29 had the highest attrition rates.
 - Employees who have worked for the company for a longer period of time have a lesser likelihood of resignation, and vice versa.
 
+## Recommendations
+- Investigate the factors that have influenced the fluctuating work-life balance satisfaction levels over the years.
+- Address the issues brought up in 2017 and 2021 that contributed to an increase in employee dissatisfaction concentrating on improving those particular parts of the workplace.
+- To enhance enthusiasm and increase job satisfaction among employees, recognise and reward exceptional performance.
+- To make sure that all employees, especially IT professionals, are appropriately compensated for their roles and contributions, the compensation structure should be reviewed.
+- Address the discrepancy between overtime expectations and pay in the IT department,to guarantee that workload and remuneration are in line.
+- To keep valuable personnel, give them possibilities for professional advancement within the organisation.
+- Create retention strategies that take into account the needs of various age groups, especially employees between the ages of 22 and 29 who have the most
+
